@@ -1,1 +1,1 @@
-Sitemap: https://pendergrass-lab.github.io/pendergrass-lab-website/sitemap.xml
+Sitemap: http://pendergrass-lab.com/sitemap.xml
