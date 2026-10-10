@@ -1,282 +1,954 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1177/20530196241270716
+  title: 'From planetary scenarios to planetary sensing: Models, observations, and
+    political legibility'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
+  - Drew Pendergrass
+  publisher: The Anthropocene Review
+  date: '2024-08-25'
+  link: https://doi.org/hcm5zp
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.atmosenv.2026.121941
+  title: Evaluation for the machine learning based PM2.5 estimation using different
+    spatial resolution of geostationary satellite AOD over megacities in Korea
+  authors:
+  - Juhee Lee
+  - Jhoon Kim
+  - Yeseul Cho
+  - Seoyoung Lee
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Hyunkwang Lim
+  - Hahn Chul Jung
+  - Kwang-Min Myung
+  - Young-Doh Kim
+  - Kyung Man Han
+  - Ja-Ho Koo
+  publisher: Atmospheric Environment
   date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  link: https://doi.org/hcm5zm
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - PM2.5
+  - AQ
+- id: doi:10.1126/sciadv.adz9007
+  title: "Attributing 2019\u20132024 methane growth using TROPOMI satellite observations"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Megan He
+  - Daniel J. Jacob
+  - Lucas A. Estrada
+  - Daniel J. Varon
+  - Melissa Sulprizio
+  - Nicholas Balasus
+  - James D. East
+  - Elise Penn
+  - Drew C. Pendergrass
+  - Zichong Chen
+  - Todd A. Mooring
+  - Joannes D. Maasakkers
+  - Philip G. Brodrick
+  - Christian Frankenberg
+  - Kevin W. Bowman
+  - Lori Bruhwiler
+  publisher: Science Advances
+  date: '2026-04-10'
+  link: https://doi.org/hbxbp3
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  tags:
+  - methane
+  - GHGs
+- id: doi:10.5194/egusphere-2025-6284
+  title: "Shifting Drivers of China's Methane Emissions amid Economic Growth and Mitigation\
+    \ between 2019\u20132024"
+  authors:
+  - Yifan Li
+  - Drew Pendergrass
+  - Daniel Jacob
+  - Yunxiao Tang
+  - Jiaxin Qiu
+  - Bo Zheng
+  publisher: Copernicus GmbH
+  date: '2026-04-07'
+  link: https://doi.org/hcm5zq
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.5194/egusphere-2025-6284-supplement
+  title: "Supplementary material to \"Shifting Drivers of China's Methane Emissions\
+    \ amid Economic Growth and Mitigation between 2019\u20132024\""
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Yifan Li
+  - Drew Pendergrass
+  - Daniel Jacob
+  - Yunxiao Tang
+  - Jiaxin Qiu
+  - Bo Zheng
+  publisher: Copernicus GmbH
+  date: '2026-04-07'
+  link: https://doi.org/hcm5zr
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-26-2623-2026
+  title: Large and increasing stratospheric contribution to tropospheric ozone over
+    East Asia
+  authors:
+  - Nadia K. Colombi
+  - Daniel J. Jacob
+  - Xingpei Ye
+  - Robert M. Yantosca
+  - Kelvin H. Bates
+  - Drew C. Pendergrass
+  - Laura Hyesung Yang
+  - Ke Li
+  - Hong Liao
+  publisher: Atmospheric Chemistry and Physics
+  date: '2026-02-18'
+  link: https://doi.org/hcm5zn
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  type: paper
+  tags:
+  - ozone
+  - AQ
+  - GHGs
+- id: doi:10.5194/acp-25-15527-2025
+  title: Quantifying CO emissions from boreal wildfires by assimilating TROPOMI and
+    TCCON observations
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Sina Voshtani
+  - Dylan B. A. Jones
+  - Debra Wunch
+  - Drew C. Pendergrass
+  - Paul O. Wennberg
+  - David F. Pollard
+  - Isamu Morino
+  - Hirofumi Ohyama
+  - Nicholas M. Deutscher
+  - Frank Hase
+  - Ralf Sussmann
+  - Damien Weidmann
+  - Rigel Kivi
+  - "Omaira Garc\xEDa"
+  - "Yao T\xE9"
+  - Jack Chen
+  - Kerry Anderson
+  - Robin Stevens
+  - Shobha Kondragunta
+  - Aihua Zhu
+  - Douglas Worthy
+  - Senen Racki
+  - Kathryn McKain
+  - Maria V. Makarova
+  - Nicholas Jones
+  - Emmanuel Mahieu
+  - Andrea Cadena-Caicedo
+  - Paolo Cristofanelli
+  - Casper Labuschagne
+  - Elena Kozlova
+  - Thomas Seitz
+  - Martin Steinbacher
+  - Reza Mahdi
+  - Isao Murata
+  publisher: Atmospheric Chemistry and Physics
+  date: '2025-11-13'
+  link: https://doi.org/hcm5zs
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-25-14353-2025
+  title: "Trends and seasonality of 2019\u20132023 global methane emissions inferred\
+    \ from a localized ensemble transform Kalman filter (CHEEREIO v1.3.1) applied\
+    \ to TROPOMI satellite observations"
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Nicholas Balasus
+  - Lucas Estrada
+  - Daniel J. Varon
+  - James D. East
+  - Megan He
+  - Todd A. Mooring
+  - Elise Penn
+  - Hannah Nesser
+  - John R. Worden
+  publisher: Atmospheric Chemistry and Physics
+  date: '2025-11-03'
+  link: https://doi.org/hcm5zt
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2025GL116091
+  title: "Wintertime Trends of Fine Particulate Matter (PM\n                    <sub>2.5</sub>\n\
+    \                    ) in South Korea, 2012\u20132022: Response of Nitrate and\
+    \ Organic Components to Decreasing NO\n                    <sub>x</sub>\n    \
+    \                Emissions"
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Yujin J. Oak
+  - Ruijun Dang
+  - Laura Hyesung Yang
+  - Ellie Beaudry
+  - Nadia K. Colombi
+  - Shixian Zhai
+  - Hwajin Kim
+  - "Jin\u2010soo Choi"
+  - "Jin\u2010soo Park"
+  - Soontae Kim
+  - Ke Li
+  - Hong Liao
+  publisher: Geophysical Research Letters
+  date: '2025-10-10'
+  link: https://doi.org/hcm5zv
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2025-1799
+  title: Large and increasing stratospheric contribution to tropospheric ozone over
+    East Asia
+  authors:
+  - Nadia K. Colombi
+  - Daniel J. Jacob
+  - Xingpei Ye
+  - Robert M. Yantosca
+  - Kelvin H. Bates
+  - Drew C. Pendergrass
+  - Laura Hyesung Yang
+  - Ke Li
+  - Hong Liao
+  publisher: Copernicus GmbH
+  date: '2025-05-07'
+  link: https://doi.org/hcm5zw
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2025-1799-supplement
+  title: Supplementary material to "Large and increasing stratospheric contribution
+    to tropospheric ozone over East Asia"
+  authors:
+  - Nadia K. Colombi
+  - Daniel J. Jacob
+  - Xingpei Ye
+  - Robert M. Yantosca
+  - Kelvin H. Bates
+  - Drew C. Pendergrass
+  - Laura Hyesung Yang
+  - Ke Li
+  - Hong Liao
+  publisher: Copernicus GmbH
+  date: '2025-05-07'
+  link: https://doi.org/hcm5zx
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2025-1554
+  title: "Trends and seasonality of 2019\u20132023 global methane emissions inferred\
+    \ from a localized ensemble transform Kalman filter (CHEEREIO v1.3.1) applied\
+    \ to TROPOMI satellite observations"
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Nicholas Balasus
+  - Lucas Estrada
+  - Daniel J. Varon
+  - James D. East
+  - Megan He
+  - Todd A. Mooring
+  - Elise Penn
+  - Hannah Nesser
+  - John R. Worden
+  publisher: Copernicus GmbH
+  date: '2025-04-16'
+  link: https://doi.org/hcm5zz
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/essoar.174349899.96636741/v1
+  title: 'Wintertime trends of fine particulate matter (PM2.5) in South Korea, 2012-2022:
+    response of nitrate and organic components to decreasing NOx emissions'
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Yujin J. Oak
+  - Ruijun Dang
+  - Laura Hyesung Yang
+  - Ellie Beaudry
+  - nadia colombi
+  - Shixian Zhai
+  - Hwajin Kim
+  - Jin-soo Choi
+  - Jin-soo Park
+  - Soontae Kim
+  - Ke Li
+  - Hong Liao
+  publisher: Wiley
+  date: '2025-04-01'
+  link: https://doi.org/hcm5z2
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.atmosenv.2025.121068
+  title: "A continuous 2011\u20132022 record of fine particulate matter (PM2.5) in\
+    \ East Asia at daily 2-km resolution from geostationary satellite observations:\
+    \ Population exposure and long-term trends"
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Yujin J. Oak
+  - Jeewoo Lee
+  - Minseok Kim
+  - Jhoon Kim
+  - Seoyoung Lee
+  - Shixian Zhai
+  - Hitoshi Irie
+  - Hong Liao
+  publisher: Atmospheric Environment
+  date: '2025-04-01'
+  link: https://doi.org/hcm5z3
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-egu25-1429
+  title: Assessment of Hydrogen&amp;#8217;s Climate Impact Is Affected by Model OH
+    Biases
+  authors:
+  - Laura Yang
+  - Daniel Jacob
+  - Haipeng Lin
+  - Ruijun Dang
+  - Kelvin Bates
+  - James East
+  - Katherine Travis
+  - Drew Pendergrass
+  - Lee Murray
+  publisher: Copernicus GmbH
+  date: '2025-03-18'
+  link: https://doi.org/hcm5z4
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-25-3233-2025
+  title: "Air quality trends and regimes in South Korea inferred from 2015\u20132023\
+    \ surface and satellite observations"
+  authors:
+  - Yujin J. Oak
+  - Daniel J. Jacob
+  - Drew C. Pendergrass
+  - Ruijun Dang
+  - Nadia K. Colombi
+  - Heesung Chong
+  - Seoyoung Lee
+  - Su Keun Kuk
+  - Jhoon Kim
+  publisher: Atmospheric Chemistry and Physics
+  date: '2025-03-17'
+  link: https://doi.org/hbf6xc
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2024GL112445
+  title: Assessment of Hydrogen's Climate Impact Is Affected by Model OH Biases
+  authors:
+  - L. H. Yang
+  - D. J. Jacob
+  - H. Lin
+  - R. Dang
+  - K. H. Bates
+  - J. D. East
+  - K. R. Travis
+  - D. C. Pendergrass
+  - L. T. Murray
+  publisher: Geophysical Research Letters
+  date: '2025-03-04'
+  link: https://doi.org/hbpk99
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2025-858
+  title: Quantifying CO emissions from boreal wildfires by assimilating TROPOMI and
+    TCCON observations
+  authors:
+  - Sina Voshtani
+  - Dylan B. A. Jones
+  - Debra Wunch
+  - Drew C. Pendergrass
+  - Paul O. Wennberg
+  - David F. Pollard
+  - Isamu Morino
+  - Hirofumi Ohyama
+  - Nicholas M. Deutscher
+  - Frank Hase
+  - Ralf Sussmann
+  - Damien Weidmann
+  - Rigel Kivi
+  - "Omaira Garc\xEDa"
+  - "Yao T\xE9"
+  - Jack Chen
+  - Kerry Anderson
+  - Robin Stevens
+  - Shobha Kondragunta
+  - Aihua Zhu
+  - Douglas Worthy
+  - Senen Racki
+  - Kathryn McKain
+  - Maria V. Makarova
+  - Nicholas Jones
+  - Emmanuel Mahieu
+  - Andrea Cadena-Caicedo
+  - Paolo Cristofanelli
+  - Casper Labuschagne
+  - Elena Kozlova
+  - Thomas Seitz
+  - Martin Steinbacher
+  - Reza Mahdi
+  - Isao Murata
+  publisher: Copernicus GmbH
+  date: '2025-03-13'
+  link: https://doi.org/hcm5z5
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2025-858-supplement
+  title: Supplementary material to "Quantifying CO emissions from boreal wildfires
+    by assimilating TROPOMI and TCCON observations"
+  authors:
+  - Sina Voshtani
+  - Dylan B. A. Jones
+  - Debra Wunch
+  - Drew C. Pendergrass
+  - Paul O. Wennberg
+  - David F. Pollard
+  - Isamu Morino
+  - Hirofumi Ohyama
+  - Nicholas M. Deutscher
+  - Frank Hase
+  - Ralf Sussmann
+  - Damien Weidmann
+  - Rigel Kivi
+  - "Omaira Garc\xEDa"
+  - "Yao T\xE9"
+  - Jack Chen
+  - Kerry Anderson
+  - Robin Stevens
+  - Shobha Kondragunta
+  - Aihua Zhu
+  - Douglas Worthy
+  - Senen Racki
+  - Kathryn McKain
+  - Maria V. Makarova
+  - Nicholas Jones
+  - Emmanuel Mahieu
+  - Andrea Cadena-Caicedo
+  - Paolo Cristofanelli
+  - Casper Labuschagne
+  - Elena Kozlova
+  - Thomas Seitz
+  - Martin Steinbacher
+  - Reza Mahdi
+  - Isao Murata
+  publisher: Copernicus GmbH
+  date: '2025-03-13'
+  link: https://doi.org/hcm5z6
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: "Continuous sub-weekly monitoring of global methane emissions at 2\xB0x2.5\xB0\
+    \ resolution for 2018-2023 with an ensemble Kalman filter applied to TROPOMI observations"
+  publisher: AGU24
+  date: '2024-12-27'
+  link: http://drewpendergrass.com/2024_12_12_methane_for_AGU.pdf
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2024-3485
+  title: "Air quality trends and regimes in South Korea inferred from 2015\u20132023\
+    \ surface and satellite observations"
+  authors:
+  - Yujin J. Oak
+  - Daniel J. Jacob
+  - Drew C. Pendergrass
+  - Ruijun Dang
+  - Nadia K. Colombi
+  - Heesung Chong
+  - Seoyoung Lee
+  - Su Keun Kuk
+  - Jhoon Kim
+  publisher: Copernicus GmbH
+  date: '2024-11-15'
+  link: https://doi.org/hcm5z7
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2024-3485-supplement
+  title: "Supplementary material to \"Air quality trends and regimes in South Korea\
+    \ inferred from 2015\u20132023 surface and satellite observations\""
+  authors:
+  - Yujin J. Oak
+  - Daniel J. Jacob
+  - Drew C. Pendergrass
+  - Ruijun Dang
+  - Nadia K. Colombi
+  - Heesung Chong
+  - Seoyoung Lee
+  - Su Keun Kuk
+  - Jhoon Kim
+  publisher: Copernicus GmbH
+  date: '2024-11-15'
+  link: https://doi.org/hcm5z8
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1071/wf23148
+  title: Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System
+    (HMS) smoke product as a proxy for surface smoke presence across the United States
+  authors:
+  - Tianjia Liu
+  - Frances Marie Panday
+  - Miah C. Caine
+  - Makoto Kelp
+  - Drew C. Pendergrass
+  - Loretta J. Mickley
+  - Evan A. Ellicott
+  - Miriam E. Marlier
+  - Ravan Ahmadov
+  - Eric P. James
+  publisher: International Journal of Wildland Fire
+  date: '2024-10-02'
+  link: https://doi.org/hbjvbs
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-24-7027-2024
+  title: "Interpreting Geostationary Environment Monitoring Spectrometer (GEMS) geostationary\
+    \ satellite observations of the diurnal variation in nitrogen dioxide (NO\n  \
+    \                  <sub>2</sub>\n                    ) over East Asia"
+  authors:
+  - Laura Hyesung Yang
+  - Daniel J. Jacob
+  - Ruijun Dang
+  - Yujin J. Oak
+  - Haipeng Lin
+  - Jhoon Kim
+  - Shixian Zhai
+  - Nadia K. Colombi
+  - Drew C. Pendergrass
+  - Ellie Beaudry
+  - Viral Shah
+  - Xu Feng
+  - Robert M. Yantosca
+  - Heesung Chong
+  - Junsung Park
+  - Hanlim Lee
+  - Won-Jin Lee
+  - Soontae Kim
+  - Eunhye Kim
+  - Katherine R. Travis
+  - James H. Crawford
+  - Hong Liao
+  publisher: Atmospheric Chemistry and Physics
+  date: '2024-06-18'
+  link: https://doi.org/hcm5z9
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/essd-2024-172
+  title: "A continuous 2011\u20132022 record of fine particulate matter (PM\n    \
+    \              <sub>2.5</sub>\n                  ) in East Asia at daily 2-km\
+    \ resolution from geostationary satellite observations: population exposure and\
+    \ long-term trends"
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Yujin J. Oak
+  - Jeewoo Lee
+  - Minseok Kim
+  - Jhoon Kim
+  - Seoyoung Lee
+  - Shixian Zhai
+  - Hitoshi Irie
+  - Hong Liao
+  publisher: Copernicus GmbH
+  date: '2024-05-21'
+  link: https://doi.org/hcm52b
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2023gl105761
+  title: Diagnosing the Sensitivity of Particulate Nitrate to Precursor Emissions
+    Using Satellite Observations of Ammonia and Nitrogen Dioxide
+  authors:
+  - Ruijun Dang
+  - Daniel J. Jacob
+  - Shixian Zhai
+  - Pierre Coheur
+  - Lieven Clarisse
+  - Martin Van Damme
+  - Drew C. Pendergrass
+  - "Jin\u2010soo Choi"
+  - "Jin\u2010soo Park"
+  - Zirui Liu
+  - Hong Liao
+  publisher: Geophysical Research Letters
+  date: '2023-12-23'
+  link: https://doi.org/hcm52c
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2023-2979
+  title: "Interpreting GEMS geostationary satellite observations of the diurnal variation\
+    \ of nitrogen dioxide (NO\n                  <sub>2</sub>\n                  )\
+    \ over East Asia"
+  authors:
+  - Laura Hyesung Yang
+  - Daniel J. Jacob
+  - Ruijun Dang
+  - Yujin J. Oak
+  - Haipeng Lin
+  - Jhoon Kim
+  - Shixian Zhai
+  - Nadia K. Colombi
+  - Drew C. Pendergrass
+  - Ellie Beaudry
+  - Viral Shah
+  - Xu Feng
+  - Robert M. Yantosca
+  - Heesung Chong
+  - Junsung Park
+  - Hanlim Lee
+  - Won-Jin Lee
+  - Soontae Kim
+  - Eunhye Kim
+  - Katherine R. Travis
+  - James H. Crawford
+  - Hong Liao
+  publisher: Copernicus GmbH
+  date: '2023-12-22'
+  link: https://doi.org/hcm52d
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/gmd-16-4793-2023
+  title: 'CHEEREIO 1.0: a versatile and user-friendly ensemble-based chemical data
+    assimilation and emissions inversion platform for the GEOS-Chem chemical transport
+    model'
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Hannah Nesser
+  - Daniel J. Varon
+  - Melissa Sulprizio
+  - Kazuyuki Miyazaki
+  - Kevin W. Bowman
+  publisher: Geoscientific Model Development
+  date: '2023-08-24'
+  link: https://doi.org/hcm52f
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-23-7503-2023
+  title: Continuous weekly monitoring of methane emissions from the Permian Basin
+    by inversion of TROPOMI satellite observations
+  authors:
+  - Daniel J. Varon
+  - Daniel J. Jacob
+  - Benjamin Hmiel
+  - Ritesh Gautam
+  - David R. Lyon
+  - Mark Omara
+  - Melissa Sulprizio
+  - Lu Shen
+  - Drew Pendergrass
+  - Hannah Nesser
+  - Zhen Qu
+  - Zachary R. Barkley
+  - Natasha L. Miles
+  - Scott J. Richardson
+  - Kenneth J. Davis
+  - Sudhanshu Pandey
+  - Xiao Lu
+  - Alba Lorente
+  - Tobias Borsdorff
+  - Joannes D. Maasakkers
+  - Ilse Aben
+  publisher: Atmospheric Chemistry and Physics
+  date: '2023-07-11'
+  link: https://doi.org/hcm52g
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-23-5945-2023
+  title: "Satellite quantification of methane emissions and oil\u2013gas methane intensities\
+    \ from individual countries in the Middle East and North Africa: implications\
+    \ for climate action"
+  authors:
+  - Zichong Chen
+  - Daniel J. Jacob
+  - Ritesh Gautam
+  - Mark Omara
+  - Robert N. Stavins
+  - Robert C. Stowe
+  - Hannah Nesser
+  - Melissa P. Sulprizio
+  - Alba Lorente
+  - Daniel J. Varon
+  - Xiao Lu
+  - Lu Shen
+  - Zhen Qu
+  - Drew C. Pendergrass
+  - Sarah Hancock
+  publisher: Atmospheric Chemistry and Physics
+  date: '2023-05-31'
+  link: https://doi.org/hckvvw
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2023-616
+  title: 'CHEEREIO 1.0: a versatile and user-friendly ensemble-based chemical data
+    assimilation and emissions inversion platform for the GEOS-Chem chemical transport
+    model'
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Hannah Nesser
+  - Daniel J. Varon
+  - Melissa Sulprizio
+  - Kazuyuki Miyazaki
+  - Kevin W. Bowman
+  publisher: Copernicus GmbH
+  date: '2023-04-19'
+  link: https://doi.org/hcm52h
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-23-4271-2023
+  title: 'Coarse particulate matter air quality in East  Asia: implications for fine
+    particulate nitrate'
+  authors:
+  - Shixian Zhai
+  - Daniel J. Jacob
+  - Drew C. Pendergrass
+  - Nadia K. Colombi
+  - Viral Shah
+  - Laura Hyesung Yang
+  - Qiang Zhang
+  - Shuxiao Wang
+  - Hwajin Kim
+  - Yele Sun
+  - Jin-Soo Choi
+  - Jin-Soo Park
+  - Gan Luo
+  - Fangqun Yu
+  - Jung-Hun Woo
+  - Younha Kim
+  - Jack E. Dibb
+  - Taehyoung Lee
+  - Jin-Seok Han
+  - Bruce E. Anderson
+  - Ke Li
+  - Hong Liao
+  publisher: Atmospheric Chemistry and Physics
+  date: '2023-04-12'
+  link: https://doi.org/hbnz3b
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2022-1485
+  title: 'Coarse particulate matter air quality in East Asia: implications for fine
+    particulate nitrate'
+  authors:
+  - Shixian Zhai
+  - Daniel J. Jacob
+  - Drew C. Pendergrass
+  - Nadia K. Colombi
+  - Viral Shah
+  - Laura Hyesung Yang
+  - Qiang Zhang
+  - Shuxiao Wang
+  - Hwajin Kim
+  - Yele Sun
+  - Jin-Soo Choi
+  - Jin-Soo Park
+  - Gan Luo
+  - Fangqun Yu
+  - Jung-Hun Woo
+  - Younha Kim
+  - Jack E. Dibb
+  - Taehyoung Lee
+  - Jin-Seok Han
+  - Bruce E. Anderson
+  - Ke Li
+  - Hong Liao
+  publisher: Copernicus GmbH
+  date: '2023-01-26'
+  link: https://doi.org/hcm52j
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/egusphere-2022-1485-supplement
+  title: 'Supplementary material to "Coarse particulate matter air quality in East
+    Asia: implications for fine particulate nitrate"'
+  authors:
+  - Shixian Zhai
+  - Daniel J. Jacob
+  - Drew C. Pendergrass
+  - Nadia K. Colombi
+  - Viral Shah
+  - Laura Hyesung Yang
+  - Qiang Zhang
+  - Shuxiao Wang
+  - Hwajin Kim
+  - Yele Sun
+  - Jin-Soo Choi
+  - Jin-Soo Park
+  - Gan Luo
+  - Fangqun Yu
+  - Jung-Hun Woo
+  - Younha Kim
+  - Jack E. Dibb
+  - Taehyoung Lee
+  - Jin-Seok Han
+  - Bruce E. Anderson
+  - Ke Li
+  - Hong Liao
+  publisher: Copernicus GmbH
+  date: '2023-01-26'
+  link: https://doi.org/hcm52k
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/acp-2022-749
+  title: Continuous weekly monitoring of methane emissions from the Permian Basin
+    by inversion of TROPOMI satellite observations
+  authors:
+  - Daniel J. Varon
+  - Daniel J. Jacob
+  - Benjamin Hmiel
+  - Ritesh Gautam
+  - David R. Lyon
+  - Mark Omara
+  - Melissa Sulprizio
+  - Lu Shen
+  - Drew Pendergrass
+  - Hannah Nesser
+  - Zhen Qu
+  - Zachary R. Barkley
+  - Natasha L. Miles
+  - Scott J. Richardson
+  - Kenneth J. Davis
+  - Sudhanshu Pandey
+  - Xiao Lu
+  - Alba Lorente
+  - Tobias Borsdorff
+  - Joannes D. Maasakkers
+  - Ilse Aben
+  publisher: Copernicus GmbH
+  date: '2022-11-10'
+  link: https://doi.org/grm8hp
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/amt-15-1075-2022
+  title: "Continuous mapping of fine particulate matter (PM\n                    <sub>2.5</sub>\n\
+    \                    ) air quality in East Asia at daily 6\u2009\u2009\xD7\u2009\
+    \u20096\u2009km\n                    <sup>2</sup>\n                    resolution\
+    \ by application of a random forest algorithm to 2011\u20132019 GOCI geostationary\
+    \ satellite data"
+  authors:
+  - Drew C. Pendergrass
+  - Shixian Zhai
+  - Jhoon Kim
+  - Ja-Ho Koo
+  - Seoyoung Lee
+  - Minah Bae
+  - Soontae Kim
+  - Hong Liao
+  - Daniel J. Jacob
+  publisher: Atmospheric Measurement Techniques
+  date: '2022-03-03'
+  link: https://doi.org/gtgjw5
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/amt-2021-273
+  title: "Continuous mapping of fine particulate matter (PM\n                  <sub>2.5</sub>\n\
+    \                  ) air quality in East Asia at daily 6\xD76\u2009km\n      \
+    \            <sup>2</sup>\n                  resolution by application of a random\
+    \ forest algorithm to 2011\u20132019 GOCI geostationary satellite data"
+  authors:
+  - Drew C. Pendergrass
+  - Daniel J. Jacob
+  - Shixian Zhai
+  - Jhoon Kim
+  - Ja-Ho Koo
+  - Seoyoung Lee
+  - Minah Bae
+  - Soontae Kim
+  publisher: Copernicus GmbH
+  date: '2021-10-20'
+  link: https://doi.org/hcm52m
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2018GL080102
+  title: Predicting the Impact of Climate Change on Severe Wintertime Particulate
+    Pollution Events in Beijing Using Extreme Value Theory
+  authors:
+  - D. C. Pendergrass
+  - L. Shen
+  - D. J. Jacob
+  - L. J. Mickley
+  publisher: Geophysical Research Letters
+  date: '2019-02-10'
+  link: https://doi.org/gftvbv
+  orcid: 0000-0002-8210-4983
+  drew-pendergrass: true
+  plugin: orcid.py
+  file: orcid.yaml
