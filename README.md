@@ -5,6 +5,6 @@
 
   # pendergrass-lab's Website
 
-  Visit **[pendergrass-lab.github.io/pendergrass-lab-website](https://pendergrass-lab.github.io/pendergrass-lab-website)** 🚀
+  Visit **[pendergrass-lab.com](http://pendergrass-lab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
