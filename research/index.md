@@ -13,7 +13,7 @@ See below for peer-reviewed publications.
 
 {% include section.html %}
 
-## All papers and conference presentations
+## All papers
 
 {% include search-box.html %}
 
