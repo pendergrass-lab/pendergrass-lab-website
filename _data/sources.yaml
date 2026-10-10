@@ -2,7 +2,7 @@
   tags:
     - paper
     - methane
-    - GHG
+    - climate
 
 - id: doi:10.1016/j.atmosenv.2026.121941
   tags:
@@ -15,14 +15,15 @@
     - paper
     - ozone
     - AQ
-    - GHG
+    - climate
 
 - id: doi:10.5194/egusphere-2025-6284
   publisher: EGUSphere
   tags:
     - preprint
-    - GHG
+    - climate
     - CHEEREIO
+    - methane
 
 - id: doi:10.5194/acp-25-15527-2025
   tags:
@@ -33,20 +34,34 @@
 - id: doi:10.5194/acp-25-14353-2025
   tags:
     - paper
-    - GHG
+    - climate
     - CHEEREIO
+    - methane
+  buttons:
+    - type: website
+      text: General audience explainer
+      link: https://drewpendergrass.beehiiv.com/p/what-drove-the-record-surge-in-climate-heating-methane
 
 - id: doi:10.1029/2025GL116091
   tags:
     - paper
     - PM2.5
     - AQ
+  buttons:
+    - type: website
+      text: General audience explainer
+      link: https://drewpendergrass.beehiiv.com/p/how-much-cleaner-is-the-air-in-east-asia-now-than-fifteen-years-ago
+
 
 - id: doi:10.1016/j.atmosenv.2025.121068
   tags:
     - paper
     - PM2.5
     - AQ
+  buttons:
+    - type: website
+      text: General audience explainer
+      link: https://drewpendergrass.beehiiv.com/p/a-strange-situation-where-cutting-pollution-made-pollution-worse
 
 - id: doi:10.5194/acp-25-3233-2025
   tags:
@@ -58,7 +73,7 @@
 - id: doi:10.1029/2024GL112445
   tags:
     - paper
-    - GHG
+    - climate
 
 - id: doi:10.1071/wf23148
   tags:
@@ -80,19 +95,26 @@
 - id: doi:10.5194/gmd-16-4793-2023
   tags:
     - paper
-    - GHG
+    - climate
     - AQ
     - CHEEREIO
+    - methane
+  buttons:
+    - type: website
+      text: General audience explainer
+      link: https://drewpendergrass.beehiiv.com/p/science-update-a-new-tool-for-catching-polluters
 
 - id: doi:10.5194/acp-23-7503-2023
   tags:
     - paper
-    - GHG
+    - climate
+    - methane
 
 - id: doi:10.5194/acp-23-5945-2023
   tags:
     - paper
-    - GHG
+    - climate
+    - methane
 
 - id: doi:10.5194/acp-23-4271-2023
   tags:
@@ -107,6 +129,23 @@
     - AQ
 
 - id: doi:10.1029/2018GL080102
+  tags:
+    - paper
+    - PM2.5
+    - AQ
+
+- id: 10.1021/acs.est.5c08745
+  tags:
+    - paper
+    - climate
+    - methane
+
+- id: 10.1021/acsestair.4c00210
+  tags:
+    - paper
+    - AQ
+
+- id: 10.1021/acs.est.4c08082
   tags:
     - paper
     - PM2.5
