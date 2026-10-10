@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In addition to publishing our findings in peer-reviewed journals, we maintain open-source software called [CHEEREIO](https://cheere.io) used by research groups around the world to quantify emissions of greenhouse gases and air pollutants. We also publish large high resolution pollution maps for use in public health studies, regulation, and other applications. See below for our projects.
 
 {% include tags.html tags="publication, resource, website" %}
 
