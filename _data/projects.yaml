@@ -1,6 +1,5 @@
 - title: CHEEREIO codebase
   group: featured
-  image: images/transparent_cheereio_logo.png
   link: https://github.com/drewpendergrass/CHEEREIO
   description: CHEEREIO can be used to estimate emissions of various pollutants using observations from satellites, surface monitors, and more. Click here for code!
   tags:
@@ -8,7 +7,6 @@
 
 - title: CHEEREIO documentation
   group: featured
-  image: images/transparent_cheereio_logo.png
   link: https://cheereio.readthedocs.io/
   description: CHEEREIO can be used to estimate emissions of various pollutants using observations from satellites, surface monitors, and more. Click here for the documentation!
   tags:
@@ -16,7 +14,6 @@
 
 - title: CHEEREIO 1.4.1 getting started tutorial
   group: featured
-  image: images/transparent_cheereio_logo.png
   link: https://youtu.be/5-MT3kNVR7E
   description: CHEEREIO can be used to estimate emissions of various pollutants using observations from satellites, surface monitors, and more. Click here for a 2026 video tutorial!
   tags:

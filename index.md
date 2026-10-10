@@ -26,7 +26,7 @@ We combine physical models of the atmosphere with machine learning and Bayesian 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pendergrass25_methane.gif"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ In addition to publishing our findings in peer-reviewed journals, we maintain op
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/transparent_cheereio_logo.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ We are currently hiring Oberlin College undergraduate students as research assis
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://www.oberlin.edu/sites/default/files/content/ajlc/images/ajlc_winter_1160x696.jpg"
   link="team"
   title="Our Team"
   text=text
