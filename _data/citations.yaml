@@ -56,7 +56,7 @@
   tags:
   - paper
   - methane
-  - GHG
+  - climate
 - id: doi:10.5194/egusphere-2025-6284
   title: "Shifting Drivers of China's Methane Emissions amid Economic Growth and Mitigation\
     \ between 2019\u20132024"
@@ -76,8 +76,9 @@
   file: sources.yaml
   tags:
   - preprint
-  - GHG
+  - climate
   - CHEEREIO
+  - methane
 - id: doi:10.5194/acp-26-2623-2026
   title: Large and increasing stratospheric contribution to tropospheric ozone over
     East Asia
@@ -102,7 +103,7 @@
   - paper
   - ozone
   - AQ
-  - GHG
+  - climate
 - id: doi:10.5194/acp-25-15527-2025
   title: Quantifying CO emissions from boreal wildfires by assimilating TROPOMI and
     TCCON observations
@@ -177,8 +178,13 @@
   file: sources.yaml
   tags:
   - paper
-  - GHG
+  - climate
   - CHEEREIO
+  - methane
+  buttons:
+  - type: website
+    text: General audience explainer
+    link: https://drewpendergrass.beehiiv.com/p/what-drove-the-record-surge-in-climate-heating-methane
 - id: doi:10.1029/2025GL116091
   title: "Wintertime Trends of Fine Particulate Matter (PM\n                    <sub>2.5</sub>\n\
     \                    ) in South Korea, 2012\u20132022: Response of Nitrate and\
@@ -210,6 +216,10 @@
   - paper
   - PM2.5
   - AQ
+  buttons:
+  - type: website
+    text: General audience explainer
+    link: https://drewpendergrass.beehiiv.com/p/how-much-cleaner-is-the-air-in-east-asia-now-than-fifteen-years-ago
 - id: doi:10.1016/j.atmosenv.2025.121068
   title: "A continuous 2011\u20132022 record of fine particulate matter (PM2.5) in\
     \ East Asia at daily 2-km resolution from geostationary satellite observations:\
@@ -236,6 +246,10 @@
   - paper
   - PM2.5
   - AQ
+  buttons:
+  - type: website
+    text: General audience explainer
+    link: https://drewpendergrass.beehiiv.com/p/a-strange-situation-where-cutting-pollution-made-pollution-worse
 - id: doi:10.5194/acp-25-3233-2025
   title: "Air quality trends and regimes in South Korea inferred from 2015\u20132023\
     \ surface and satellite observations"
@@ -282,16 +296,7 @@
   file: sources.yaml
   tags:
   - paper
-  - GHG
-- title: "Continuous sub-weekly monitoring of global methane emissions at 2\xB0x2.5\xB0\
-    \ resolution for 2018-2023 with an ensemble Kalman filter applied to TROPOMI observations"
-  publisher: AGU24
-  date: '2024-12-27'
-  link: http://drewpendergrass.com/2024_12_12_methane_for_AGU.pdf
-  orcid: 0000-0002-8210-4983
-  drew-pendergrass: true
-  plugin: orcid.py
-  file: orcid.yaml
+  - climate
 - id: doi:10.1071/wf23148
   title: Is the smoke aloft? Caveats regarding the use of the Hazard Mapping System
     (HMS) smoke product as a proxy for surface smoke presence across the United States
@@ -401,9 +406,14 @@
   file: sources.yaml
   tags:
   - paper
-  - GHG
+  - climate
   - AQ
   - CHEEREIO
+  - methane
+  buttons:
+  - type: website
+    text: General audience explainer
+    link: https://drewpendergrass.beehiiv.com/p/science-update-a-new-tool-for-catching-polluters
 - id: doi:10.5194/acp-23-7503-2023
   title: Continuous weekly monitoring of methane emissions from the Permian Basin
     by inversion of TROPOMI satellite observations
@@ -438,7 +448,8 @@
   file: sources.yaml
   tags:
   - paper
-  - GHG
+  - climate
+  - methane
 - id: doi:10.5194/acp-23-5945-2023
   title: "Satellite quantification of methane emissions and oil\u2013gas methane intensities\
     \ from individual countries in the Middle East and North Africa: implications\
@@ -468,7 +479,8 @@
   file: sources.yaml
   tags:
   - paper
-  - GHG
+  - climate
+  - methane
 - id: doi:10.5194/acp-23-4271-2023
   title: 'Coarse particulate matter air quality in East  Asia: implications for fine
     particulate nitrate'
@@ -552,3 +564,88 @@
   - paper
   - PM2.5
   - AQ
+- id: 10.1021/acs.est.5c08745
+  title: Seasonality and Declining Intensity of Methane Emissions from the Permian
+    and Nearby US Oil and Gas Basins
+  authors:
+  - Daniel J. Varon
+  - Daniel J. Jacob
+  - Lucas A. Estrada
+  - Nicholas Balasus
+  - James D. East
+  - Drew C. Pendergrass
+  - Zichong Chen
+  - Melissa Sulprizio
+  - Mark Omara
+  - Ritesh Gautam
+  - Zachary R. Barkley
+  - "Felipe J. Cardoso Salda\xF1a"
+  - Emily K. Reidy
+  - Harshil Kamdar
+  - Evan D. Sherwin
+  - Sebastien C. Biraud
+  - Dylan Jervis
+  - Sudhanshu Pandey
+  - John R. Worden
+  - Kevin W. Bowman
+  - Joannes D. Maasakkers
+  - Robert L. Kleinberg
+  publisher: Environmental Science &amp; Technology
+  date: '2025-12-22'
+  link: https://doi.org/hcm53c
+  tags:
+  - paper
+  - climate
+  - methane
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1021/acsestair.4c00210
+  title: 'Ethanol and Methanol in South Korea and China: Evidence for Large Anthropogenic
+    Emissions Missing from Current Inventories'
+  authors:
+  - Ellie Beaudry
+  - Daniel J. Jacob
+  - Kelvin H. Bates
+  - Shixian Zhai
+  - Laura H. Yang
+  - Drew C. Pendergrass
+  - Nadia Colombi
+  - Isobel J. Simpson
+  - Armin Wisthaler
+  - James R. Hopkins
+  - Ke Li
+  - Hong Liao
+  publisher: ACS ES&amp;T Air
+  date: '2025-03-27'
+  link: https://doi.org/hcm53d
+  tags:
+  - paper
+  - AQ
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1021/acs.est.4c08082
+  title: 'A Satellite-Based Indicator for Diagnosing Particulate Nitrate Sensitivity
+    to Precursor Emissions: Application to East Asia, Europe, and North America'
+  authors:
+  - Ruijun Dang
+  - Daniel J. Jacob
+  - Shixian Zhai
+  - Laura Hyesung Yang
+  - Drew C. Pendergrass
+  - Pierre Coheur
+  - Lieven Clarisse
+  - Martin Van Damme
+  - Jin-soo Choi
+  - Jin-soo Park
+  - Zirui Liu
+  - Peifu Xie
+  - Hong Liao
+  publisher: Environmental Science &amp; Technology
+  date: '2024-10-28'
+  link: https://doi.org/hbnx58
+  tags:
+  - paper
+  - PM2.5
+  - AQ
+  plugin: sources.py
+  file: sources.yaml
