@@ -23,6 +23,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -53,6 +54,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - methane
@@ -74,6 +76,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: preprint
   tags:
   - preprint
   - climate
@@ -99,6 +102,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - ozone
@@ -149,6 +153,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - AQ
@@ -176,6 +181,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - climate
@@ -212,6 +218,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -242,6 +249,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -270,6 +278,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -294,6 +303,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - climate
@@ -318,6 +328,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -356,6 +367,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - AQ
@@ -381,6 +393,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -404,6 +417,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - climate
@@ -446,6 +460,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - climate
@@ -477,6 +492,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - climate
@@ -514,6 +530,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -541,6 +558,7 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
@@ -560,11 +578,12 @@
   drew-pendergrass: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   tags:
   - paper
   - PM2.5
   - AQ
-- id: 10.1021/acs.est.5c08745
+- id: doi:10.1021/acs.est.5c08745
   title: Seasonality and Declining Intensity of Methane Emissions from the Permian
     and Nearby US Oil and Gas Basins
   authors:
@@ -593,13 +612,14 @@
   publisher: Environmental Science &amp; Technology
   date: '2025-12-22'
   link: https://doi.org/hcm53c
+  type: paper
   tags:
   - paper
   - climate
   - methane
   plugin: sources.py
   file: sources.yaml
-- id: 10.1021/acsestair.4c00210
+- id: doi:10.1021/acsestair.4c00210
   title: 'Ethanol and Methanol in South Korea and China: Evidence for Large Anthropogenic
     Emissions Missing from Current Inventories'
   authors:
@@ -618,12 +638,13 @@
   publisher: ACS ES&amp;T Air
   date: '2025-03-27'
   link: https://doi.org/hcm53d
+  type: paper
   tags:
   - paper
   - AQ
   plugin: sources.py
   file: sources.yaml
-- id: 10.1021/acs.est.4c08082
+- id: doi:10.1021/acs.est.4c08082
   title: 'A Satellite-Based Indicator for Diagnosing Particulate Nitrate Sensitivity
     to Precursor Emissions: Application to East Asia, Europe, and North America'
   authors:
@@ -643,6 +664,7 @@
   publisher: Environmental Science &amp; Technology
   date: '2024-10-28'
   link: https://doi.org/hbnx58
+  type: paper
   tags:
   - paper
   - PM2.5
