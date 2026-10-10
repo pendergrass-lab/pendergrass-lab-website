@@ -1,7 +1,7 @@
 ---
 ---
 
-# Pendergrass Lab Website
+# Pendergrass Lab at Oberlin College
 
 The Pendergrass Lab at Oberlin College uses satellite data to track pollution back to its source, monitor emissions, and diagnose the drivers of pollution change. By illuminating the social, meteorological, and ecological drivers of pollutant emissions, we identify areas of joint air quality and climate action.
 
