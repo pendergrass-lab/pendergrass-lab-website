@@ -11,13 +11,7 @@ We combine physical models of the atmosphere with machine learning and Bayesian 
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
+## All papers and conference presentations
 
 {% include search-box.html %}
 
