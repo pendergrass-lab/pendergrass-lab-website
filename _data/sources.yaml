@@ -1,16 +1,19 @@
 - id: doi:10.1126/sciadv.adz9007
+  type: paper
   tags:
     - paper
     - methane
     - climate
 
 - id: doi:10.1016/j.atmosenv.2026.121941
+  type: paper
   tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/acp-26-2623-2026
+  type: paper
   tags:
     - paper
     - ozone
@@ -18,6 +21,7 @@
     - climate
 
 - id: doi:10.5194/egusphere-2025-6284
+  type: preprint
   publisher: EGUSphere
   tags:
     - preprint
@@ -26,12 +30,14 @@
     - methane
 
 - id: doi:10.5194/acp-25-15527-2025
+  type: paper
   tags:
     - paper
     - AQ
     - CHEEREIO
 
 - id: doi:10.5194/acp-25-14353-2025
+  type: paper
   tags:
     - paper
     - climate
@@ -43,6 +49,7 @@
       link: https://drewpendergrass.beehiiv.com/p/what-drove-the-record-surge-in-climate-heating-methane
 
 - id: doi:10.1029/2025GL116091
+  type: paper
   tags:
     - paper
     - PM2.5
@@ -54,6 +61,7 @@
 
 
 - id: doi:10.1016/j.atmosenv.2025.121068
+  type: paper
   tags:
     - paper
     - PM2.5
@@ -64,6 +72,7 @@
       link: https://drewpendergrass.beehiiv.com/p/a-strange-situation-where-cutting-pollution-made-pollution-worse
 
 - id: doi:10.5194/acp-25-3233-2025
+  type: paper
   tags:
     - paper
     - PM2.5
@@ -71,28 +80,33 @@
     - AQ
 
 - id: doi:10.1029/2024GL112445
+  type: paper
   tags:
     - paper
     - climate
 
 - id: doi:10.1071/wf23148
+  type: paper
   tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/acp-24-7027-2024
+  type: paper
   tags:
     - paper
     - AQ
 
 - id: doi:10.1029/2023gl105761
+  type: paper
   tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/gmd-16-4793-2023
+  type: paper
   tags:
     - paper
     - climate
@@ -105,47 +119,55 @@
       link: https://drewpendergrass.beehiiv.com/p/science-update-a-new-tool-for-catching-polluters
 
 - id: doi:10.5194/acp-23-7503-2023
+  type: paper
   tags:
     - paper
     - climate
     - methane
 
 - id: doi:10.5194/acp-23-5945-2023
+  type: paper
   tags:
     - paper
     - climate
     - methane
 
 - id: doi:10.5194/acp-23-4271-2023
+  type: paper
   tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/amt-15-1075-2022
+  type: paper
   tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.1029/2018GL080102
+  type: paper
   tags:
     - paper
     - PM2.5
     - AQ
 
-- id: 10.1021/acs.est.5c08745
+- id: doi:10.1021/acs.est.5c08745
+  type: paper
   tags:
     - paper
     - climate
     - methane
 
-- id: 10.1021/acsestair.4c00210
+- id: doi:10.1021/acsestair.4c00210
+  type: paper
   tags:
     - paper
     - AQ
 
-- id: 10.1021/acs.est.4c08082
+- id: doi:10.1021/acs.est.4c08082
+  type: paper
   tags:
     - paper
     - PM2.5
