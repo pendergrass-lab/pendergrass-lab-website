@@ -1,47 +1,31 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: CHEEREIO codebase
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/transparent_cheereio_logo.png
+  link: https://github.com/drewpendergrass/CHEEREIO
+  description: CHEEREIO can be used to estimate emissions of various pollutants using observations from satellites, surface monitors, and more. Click here for code!
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: CHEEREIO documentation
+  group: featured
+  image: images/transparent_cheereio_logo.png
+  link: https://cheereio.readthedocs.io/
+  description: CHEEREIO can be used to estimate emissions of various pollutants using observations from satellites, surface monitors, and more. Click here for the documentation!
   tags:
-    - software
+    - resource
+
+- title: CHEEREIO 1.4.1 getting started tutorial
+  group: featured
+  image: images/transparent_cheereio_logo.png
+  link: https://youtu.be/5-MT3kNVR7E
+  description: CHEEREIO can be used to estimate emissions of various pollutants using observations from satellites, surface monitors, and more. Click here for a 2026 video tutorial!
+  tags:
+    - resource
+
+
+- title: Continuous 2011-2022 PM2.5 in East Asia at daily 2-km resolution
+  link: https://doi.org/10.7910/DVN/0GO7BS
+  description: We construct a continuous 24-h daily fine particulate matter (PM2.5) record with 2×2 km2 resolution over eastern China, South Korea, and Japan for 2011-2022 by applying a random forest (RF) algorithm to aerosol optical depth (AOD) observations from the Geostationary Ocean Color Imager (GOCI) I and II satellite instruments
+  tags:
+    - resource
+
