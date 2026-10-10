@@ -31,76 +31,89 @@
     - CHEEREIO
 
 - id: doi:10.5194/acp-25-14353-2025
+  tags:
     - paper
     - GHG
     - CHEEREIO
 
 - id: doi:10.1029/2025GL116091
+  tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.1016/j.atmosenv.2025.121068
+  tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/acp-25-3233-2025
+  tags:
     - paper
     - PM2.5
     - ozone
     - AQ
 
 - id: doi:10.1029/2024GL112445
+  tags:
     - paper
     - GHG
 
 - id: doi:10.1071/wf23148
+  tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/acp-24-7027-2024
+  tags:
     - paper
     - AQ
 
 - id: doi:10.1029/2023gl105761
+  tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/gmd-16-4793-2023
+  tags:
     - paper
     - GHG
     - AQ
     - CHEEREIO
 
 - id: doi:10.5194/acp-23-7503-2023
+  tags:
     - paper
     - GHG
 
 - id: doi:10.5194/acp-23-5945-2023
+  tags:
     - paper
     - GHG
 
 - id: doi:10.5194/acp-23-4271-2023
+  tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/amt-15-1075-2022
+  tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.1029/2018GL080102
+  tags:
     - paper
     - PM2.5
     - AQ
 
 - id: doi:10.5194/amt-2021-273
   remove: true
-
 
 - id: doi:10.5194/egusphere-2022-1485
   remove: true
@@ -111,13 +124,11 @@
 - id: doi:10.5194/acp-2022-749
   remove: true
 
-
 - id: doi:10.5194/egusphere-2023-2979
   remove: true
 
 - id: doi:10.5194/egusphere-2023-616
   remove: true
-
 
 - id: doi:10.5194/essd-2024-172
   remove: true
@@ -152,7 +163,6 @@
 
 - id: doi:10.22541/essoar.174349899.96636741/v1
   remove: true
-
 
 - id: doi:10.5194/egusphere-2025-6284-supplement
   remove: true

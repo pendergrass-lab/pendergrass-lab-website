@@ -5,6 +5,9 @@ role: principal-investigator
 affiliation: Oberlin College
 aliases:
   - D. C. Pendergrass
+  - Drew C. Pendergrass
+  - Drew C Pendergrass
+  - Drew Pendergrass
   - DC Pendergrass
   - D. Pendergrass
   - D Pendergrass
