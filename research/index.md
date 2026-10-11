@@ -11,6 +11,8 @@ We combine physical models of the atmosphere with machine learning and Bayesian 
 
 See below for peer-reviewed publications. 
 
+{% include tags.html tags="climate, AQ, methane, ozone, PM2.5, CHEEREIO" %}
+
 {% include section.html %}
 
 ## All papers
