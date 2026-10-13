@@ -17,4 +17,4 @@ See below for conference presentations given by lab members!
 
 {% include search-info.html %}
 
-{% include list.html data="abstracts" component="post-excerpt" %}
+{% include list.html data="abstracts" component="abstract-excerpt" %}

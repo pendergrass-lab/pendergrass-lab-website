@@ -1,0 +1,60 @@
+{% if include.lookup %}
+  {% assign abstract = site.abstracts 
+    | where_exp: "abstract", "abstract.slug == include.lookup"
+    | first
+    | default: include
+  %}
+{% else %}
+  {% assign abstract = include %}
+{% endif %}
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    {% assign url = abstract.url | relative_url | uri_escape %}
+    {% assign title = abstract.title %}
+    {% assign image = abstract.image | relative_url | uri_escape %}
+
+    {% if image %}
+      <a
+        href="{{ url }}"
+        class="post-excerpt-image"
+        aria-label="{{ title | default: "excerpt link" | regex_strip }}"
+      >
+        <img
+          src="{{ image }}"
+          alt="{{ title | default: "excerpt image" | regex_strip }}"
+          loading="lazy"
+          {% include fallback.html %}
+        >
+      </a>
+    {% endif %}
+
+    <div class="post-excerpt-text">
+      <a href="{{ url }}">{{ title }}</a>
+
+      {%
+        include abstract-info.html
+        author=abstract.author
+        published=abstract.date
+        updated=abstract.last_modified_at
+        tags=abstract.tags
+      %}
+
+      {% assign excerpt = abstract.content
+        | default: ""
+        | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
+        | default: abstract.excerpt
+        | default: ""
+        | strip_html
+      %}
+      {% assign search = abstract.content
+        | strip_html
+        | strip_newlines
+        | regex_strip
+      %}
+      <p data-search="{{ search }}">
+        {{ excerpt }}
+      </p>
+    </div>
+  </div>
+</div>
