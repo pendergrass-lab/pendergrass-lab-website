@@ -1,18 +1,18 @@
 {% if include.lookup %}
-  {% assign abstract = site.abstracts 
-    | where_exp: "abstract", "abstract.slug == include.lookup"
+  {% assign post = site.posts 
+    | where_exp: "post", "post.slug == include.lookup"
     | first
     | default: include
   %}
 {% else %}
-  {% assign abstract = include %}
+  {% assign post = include %}
 {% endif %}
 
 <div class="post-excerpt-container">
   <div class="post-excerpt">
-    {% assign url = abstract.url | relative_url | uri_escape %}
-    {% assign title = abstract.title %}
-    {% assign image = abstract.image | relative_url | uri_escape %}
+    {% assign url = post.url | relative_url | uri_escape %}
+    {% assign title = post.title %}
+    {% assign image = post.image | relative_url | uri_escape %}
 
     {% if image %}
       <a
@@ -33,21 +33,21 @@
       <a href="{{ url }}">{{ title }}</a>
 
       {%
-        include abstract-info.html
-        author=abstract.author
-        published=abstract.date
-        updated=abstract.last_modified_at
-        tags=abstract.tags
+        include post-info.html
+        author=post.author
+        published=post.date
+        updated=post.last_modified_at
+        tags=post.tags
       %}
 
-      {% assign excerpt = abstract.content
+      {% assign excerpt = post.content
         | default: ""
         | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-        | default: abstract.excerpt
+        | default: post.excerpt
         | default: ""
         | strip_html
       %}
-      {% assign search = abstract.content
+      {% assign search = post.content
         | strip_html
         | strip_newlines
         | regex_strip
