@@ -103,6 +103,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+  image: https://acp.copernicus.org/articles/26/2623/2026/acp-26-2623-2026-f02.png
   tags:
   - paper
   - ozone
