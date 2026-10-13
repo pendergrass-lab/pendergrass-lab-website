@@ -1,11 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 We combine physical models of the atmosphere with machine learning and Bayesian statistics. Our goal is to transform remote sensing observations of atmospheric composition into actionable information about the source and fate of reactive air pollutants and greenhouse gases. 
 

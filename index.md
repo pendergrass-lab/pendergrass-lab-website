@@ -15,7 +15,7 @@ We combine physical models of the atmosphere with machine learning and Bayesian 
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ We combine physical models of the atmosphere with machine learning and Bayesian 
 {%
   include feature.html
   image="images/pendergrass25_methane.gif"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}

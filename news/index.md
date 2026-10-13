@@ -5,7 +5,7 @@ nav:
   tooltip: Updates from the lab
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 See below for news items from the lab!
 
